@@ -25,7 +25,7 @@ export const LINKS = [
 ];
 
 export const MARQUEE_TEXT =
-  "React, Next.js, Node, MongoDb, Tailwind, MySql, Javascript, Redis,";
+  "React, React Native, Vue.js, Next.js, JavaScript, PHP, Laravel, Node, Tailwind, MySql, ";
 
 export const PROJECTS = [
   {
