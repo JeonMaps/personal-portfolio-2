@@ -100,20 +100,20 @@ export const PROJECTS = [
 ];
 
 export const ABOUT =
-  "As a dedicated Full Stack Developer, I specialize in creating dynamic and responsive web applications that provide seamless user experiences. With a strong foundation in both front-end and back-end technologies, I excel in building robust and scalable solutions. My expertise includes working with JavaScript frameworks such as React and Node.js, as well as proficiency in databases like MongoDB and SQL. I am passionate about continuous learning and keeping up-to-date with the latest industry trends, which allows me to implement modern practices and tools in my projects.";
+  "As a dedicated Full Stack Developer, I specialize in creating dynamic and responsive web applications that provide seamless user experiences. With a strong foundation in both front-end and back-end technologies, I excel in building robust and scalable solutions. My expertise includes working with JavaScript frameworks such as React, Vue.js, and Node.js for front-end and PHP-Laravel and Python-Django for back-end development, as well as proficiency in databases like MySQL and Supabase. I am passionate about continuous learning and keeping up-to-date with the latest industry trends, which allows me to implement modern practices and tools in my projects.";
 
 export const EXPERIENCES = [
   {
-    company: "Google",
-    role: "Software Engineer",
-    year: "12/2023 - Present",
-    description:
-      "Developing and maintaining scalable web applications using modern technologies. Collaborating with cross-functional teams to design and implement new features. Enhancing application performance and ensuring high-quality code through rigorous testing and code reviews. Contributing to the continuous improvement of development processes and best practices.",
+    company: "Money Trees Inc.",
+    role: "Full Stack Web Developer",
+    year: "01/2023 - Present",
+    description: 
+    "Developed a robust platform featuring a comprehensive book library, book  viewing, and advanced e-study tools like parallel Bible viewers, a Bible atlas, and cross-reference Bible viewers. Developed and deployed a portal with an intuitive dashboard, profile management, project and task tracking,  leave requests, issue reporting, organization management, and an integrated calendar. This led to a 25% improvement in team coordination and  project tracking.",
   },
   {
-    company: "Facebook",
-    role: "Frontend Developer",
-    year: "01/2021 - 11/2023",
+    company: "Money Trees Inc.",
+    role: "Back-end Developer Intern",
+    year: "09/2022 - 01/2023",
     description:
       "Implemented user interfaces for web applications using React and Redux. Worked closely with designers to ensure seamless user experiences. Optimized components for maximum performance across a vast array of web-capable devices and browsers. Participated in code reviews and provided feedback to maintain high code quality.",
   },
