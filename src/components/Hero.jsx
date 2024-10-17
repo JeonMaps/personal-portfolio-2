@@ -1,6 +1,7 @@
 import { LuImport } from "react-icons/lu"
-import benson from "../assets/benson.webp"
-import jb from "../assets/jb.jpg"
+//import benson from "../assets/benson.webp"
+import homu from "../assets/homu.jpg"
+
 
 const Hero = () => {
   return (
@@ -16,7 +17,7 @@ const Hero = () => {
                 </a>
             </div>
             <div className="w-full">
-                <img src={jb} alt='Jeon Maps' className="mt-8 h-96 w-full object-cover"/>
+                <img src={homu} alt='Jeon Maps' className="mt-8 h-96 w-full object-cover"/>
             </div>
         </div>
     </section>
